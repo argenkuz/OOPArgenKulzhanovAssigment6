@@ -38,7 +38,9 @@ BMIApp is a simple Python application that calculates the Body Mass Index (BMI) 
 ## Screenshots
 
 ### Example 1
-![Снимок экрана 2025-02-26 в 20.11.47.png](%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-26%20%D0%B2%2020.11.47.png)
+<img width="666" alt="Снимок экрана 2025-02-26 в 20 11 47" src="https://github.com/user-attachments/assets/0eff0ca1-4fd5-4353-ad50-7d83405b4806" />
+
 
 ### Example 2
-![Снимок экрана 2025-02-26 в 20.12.09.png](%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-26%20%D0%B2%2020.12.09.png)
+
+<img width="654" alt="Снимок экрана 2025-02-26 в 20 12 09" src="https://github.com/user-attachments/assets/2401e5ad-394c-4c8a-8002-fd01bcf3cf09" />
